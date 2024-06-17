@@ -5,7 +5,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
 ### Screenshot
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 ### Links
 - Github Site URL: [Josmiga - Social links profile](https://github.com/Josmiga/social-links-profile-main)
