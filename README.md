@@ -8,7 +8,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ![alt text](image-2.png)
 
 ### Links
-- Github Site URL: [Josmiga - Social links profile](https://github.com/Josmiga/social-links-profile-main)
+- Github Site URL: [Josmiga - Social links profile](https://josmiga.github.io/social-links-profile-main/)
 
 ## My process
 ### Built with
